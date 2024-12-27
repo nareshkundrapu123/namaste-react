@@ -1,0 +1,12 @@
+{
+  "name": "namastey-react",
+  "version": "1.0.0",
+  "description": "this is namastey React by naresh",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "naresh",
+  "license": "ISC"
+}
